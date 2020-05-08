@@ -6,11 +6,9 @@ install:
 script:
   - yarn docs:build
 deploy:
-  provider: pages
-  cleanup: false
-  overwrite: true
+  provider: pages:git
   local_dir: docs/.vuepress/dist
-  github_token: $GH_TOKEN
-  keep_history: true
+  token: $GH_TOKEN
+  edge: true
   on:
     branch: master
