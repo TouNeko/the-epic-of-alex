@@ -6,7 +6,7 @@ install:
 script:
   - yarn docs:build
 deploy:
-  provider: pages:git
+  provider: pages
   local_dir: docs/.vuepress/dist
   token: $GH_TOKEN
   edge: true
