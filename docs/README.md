@@ -8,6 +8,9 @@ description: "私用 The Epic of Alexander 攻略記事"
 私用 The Epic of Alexander 攻略記事，持續更新
 
 ## 更新紀錄
+- 2020/05/09
+  - 更新次元断絶のマーチ的 Timeline & 機制解說
+  - 更新 P4 的 Timeline
 - 2020/05/08
   - 新增部分機制的參考影片連結，影片來源為早腸的通關影片
   - Timeline 增加跟隨當前機制解說的 highlight 標示
@@ -23,3 +26,4 @@ description: "私用 The Epic of Alexander 攻略記事"
 - [イディルシャイア居住区](http://kanatan.info/archives/380650.html)
 - [まじ卍 (セパレ式)](http://lenafily0402.livedoor.blog/archives/cat_378358.html)
 - [樂哥祖傳殘體攻略](http://ngabbs.com/read.php?tid=19394167&rand=857)
+- [文字を読みたくない人のための次元断絶のマーチ](https://www.youtube.com/watch?v=utfUGDM1Y9w)
