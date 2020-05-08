@@ -34,6 +34,12 @@
   span
     min-width 36px
 
+  a
+    color $subTextColor
+  a.router-link-exact-active.router-link-active
+    color $accentColor
+    background-color aliceblue
+
 
 @media (max-width: $MQNarrow)
   .timeline

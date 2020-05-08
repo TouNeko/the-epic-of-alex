@@ -7,21 +7,21 @@ description: "3体フェーズ"
 
 <Timeline>
   <template v-slot:timeline-content>
-    <li><span>0:00</span><a href="#デバフ付与">デバフ付与</a></li>
-    <li><span>0:12</span><a href="#時間停止">時間停止</a></li>
-    <li><span>0:33</span><a href="#神罰の熱線">神罰の熱線</a></li>
-    <li><span>0:37</span><a href="#聖なる炎">聖なる炎</a></li>
-    <li><span>0:50</span><a href="#時空潜航のマーチ">時空潜航のマーチ</a></li>
-    <li><span>1:53</span><a href="#">アレキサンダー再出現</a></li>
-    <li><span>2:03</span><a href="#神罰の熱線">神罰の熱線</a></li>
-    <li><span>2:09</span><a href="#聖なる炎">聖なる炎</a></li>
-    <li><span>2:21</span><a href="#次元断絶のマーチ">次元断絶のマーチ</a></li>
-    <li><span>3:07</span><a href="#">アレキサンダー再出現</a></li>
-    <li><span>3:15</span><a href="#メガホーリー">メガホーリー</a></li>
-    <li><span>3:22</span><a href="#メガホーリー">メガホーリー</a></li>
-    <li><span>3:32</span><a href="#アレキサンダー召喚">アレキサンダー召喚</a></li>
-    <li><span>4:04</span><a href="#暗黒の運命">暗黒の運命</a></li>
-    <li><span>4:54</span><a href="#聖なる審判">聖なる審判</a></li>
+    <li><span>0:00</span><RouterLink to="#デバフ付与">デバフ付与</RouterLink></li>
+    <li><span>0:12</span><RouterLink to="#時間停止">時間停止</RouterLink></li>
+    <li><span>0:33</span><RouterLink to="#神罰の熱線">神罰の熱線</RouterLink></li>
+    <li><span>0:37</span><RouterLink to="#聖なる炎">聖なる炎</RouterLink></li>
+    <li><span>0:50</span><RouterLink to="#時空潜航のマーチ">時空潜航のマーチ</RouterLink></li>
+    <li><span>1:53</span><RouterLink to="#">アレキサンダー再出現</RouterLink></li>
+    <li><span>2:03</span><RouterLink to="#神罰の熱線">神罰の熱線</RouterLink></li>
+    <li><span>2:09</span><RouterLink to="#聖なる炎">聖なる炎</RouterLink></li>
+    <li><span>2:21</span><RouterLink to="#次元断絶のマーチ">次元断絶のマーチ</RouterLink></li>
+    <li><span>3:07</span><RouterLink to="#">アレキサンダー再出現</RouterLink></li>
+    <li><span>3:15</span><RouterLink to="#メガホーリー">メガホーリー</RouterLink></li>
+    <li><span>3:22</span><RouterLink to="#メガホーリー">メガホーリー</RouterLink></li>
+    <li><span>3:32</span><RouterLink to="#アレキサンダー召喚">アレキサンダー召喚</RouterLink></li>
+    <li><span>4:04</span><RouterLink to="#暗黒の運命">暗黒の運命</RouterLink></li>
+    <li><span>4:54</span><RouterLink to="#聖なる審判">聖なる審判</RouterLink></li>
   </template>
 </Timeline>
 

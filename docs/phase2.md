@@ -7,36 +7,36 @@ description: "2体フェーズ"
 
 <Timeline>
   <template v-slot:timeline-content>
-    <li><span>0:00</span><a href="#ジャスティスキック">ジャスティスキック</a></li>
-    <li><span>0:10</span><a href="#竜巻">竜巻</a></li>
-    <li><span>0:13</span><a href="#ジャッジメントナイサイ">ジャッジメントナイサイ</a></li>
-    <li><span>0:20</span><a href="#システムリンク">システムリンク</a></li>
-    <li><span>0:28</span><a href="#照準">照準</a></li>
-    <li><span>0:29</span><a href="#ビームチャクラム">ビームチャクラム</a></li>
-    <li><span>0:35</span><a href="#フォトン">フォトン</a></li>
-    <li><span>0:45</span><a href="#スピンクラッシャー">スピンクラッシャー</a></li>
-    <li><span>----</span><a href="#ナイサイ受け渡し-1回目">ナイサイ受け渡し(1回目)</a></li>
-    <li><span>0:50</span><a href="#水・雷圧縮爆発-1回目">水・雷圧縮爆発(1回目)</a></li>
-    <li><span>0:57</span><a href="#ミサイル全弾発射">ミサイル全弾発射</a></li>
-    <li><span>1:06</span><a href="#カウント">カウント</a></li>
-    <li><span>----</span><a href="#ナイサイ受け渡し-2回目">ナイサイ受け渡し(2回目)</a></li>
-    <li><span>1:21</span><a href="#最後の審判-開廷">最後の審判:開廷</a></li>
-    <li><span>1:21</span><a href="#水・雷圧縮爆発-2回目">水・雷圧縮爆発(2回目)</a></li>
-    <li><span>1:26</span><a href="#リミッターカット">リミッターカット</a></li>
-    <li><span>1:28</span><a href="#大火炎放射">大火炎放射</a></li>
-    <li><span>----</span><a href="#ナイサイ受け渡し-3回目">ナイサイ受け渡し(3回目)</a></li>
-    <li><span>1:40</span><a href="#竜巻">竜巻</a></li>
-    <li><span>1:49</span><a href="#水・雷圧縮爆発-3回目">水・雷圧縮爆発(3回目)</a></li>
-    <li><span>----</span><a href="#ナイサイ受け渡し-4回目">ナイサイ受け渡し(4回目)</a></li>
-    <li><span>2:07</span><a href="#プロペラウィンド">プロペラウィンド</a></li>
-    <li><span>2:09</span><a href="#最後の審判-結審">最後の審判:結審</a></li>
-    <li><span>2:20</span><a href="#フォトン(タンク)">フォトン(タンク)</a></li>
-    <li><span>2:35</span><a href="#ダブルロケットパンチ">ダブルロケットパンチ</a></li>
-    <li><span>2:35</span><a href="#スーパージャンプ">スーパージャンプ</a></li>
-    <li><span>2:38</span><a href="#アポカリティクレイ">アポカリティクレイ</a></li>
-    <li><span>2:48</span><a href="#竜巻">竜巻</a></li>
-    <li><span>2:55</span><a href="#竜巻">竜巻</a></li>
-    <li><span>3:10</span><a href="#暗黒の運命-死刑判決">暗黒の運命&死刑判決(時間切れ)</a></li>
+    <li><span>0:00</span><RouterLink to="#ジャスティスキック">ジャスティスキック</RouterLink></li>
+    <li><span>0:10</span><RouterLink to="#竜巻">竜巻</RouterLink></li>
+    <li><span>0:13</span><RouterLink to="#ジャッジメントナイサイ">ジャッジメントナイサイ</RouterLink></li>
+    <li><span>0:20</span><RouterLink to="#システムリンク">システムリンク</RouterLink></li>
+    <li><span>0:28</span><RouterLink to="#照準">照準</RouterLink></li>
+    <li><span>0:29</span><RouterLink to="#ビームチャクラム">ビームチャクラム</RouterLink></li>
+    <li><span>0:35</span><RouterLink to="#フォトン">フォトン</RouterLink></li>
+    <li><span>0:45</span><RouterLink to="#スピンクラッシャー">スピンクラッシャー</RouterLink></li>
+    <li><span>----</span><RouterLink to="#ナイサイ受け渡し-1回目">ナイサイ受け渡し(1回目)</RouterLink></li>
+    <li><span>0:50</span><RouterLink to="#水・雷圧縮爆発-1回目">水・雷圧縮爆発(1回目)</RouterLink></li>
+    <li><span>0:57</span><RouterLink to="#ミサイル全弾発射">ミサイル全弾発射</RouterLink></li>
+    <li><span>1:06</span><RouterLink to="#カウント">カウント</RouterLink></li>
+    <li><span>----</span><RouterLink to="#ナイサイ受け渡し-2回目">ナイサイ受け渡し(2回目)</RouterLink></li>
+    <li><span>1:21</span><RouterLink to="#最後の審判-開廷">最後の審判:開廷</RouterLink></li>
+    <li><span>1:21</span><RouterLink to="#水・雷圧縮爆発-2回目">水・雷圧縮爆発(2回目)</RouterLink></li>
+    <li><span>1:26</span><RouterLink to="#リミッターカット">リミッターカット</RouterLink></li>
+    <li><span>1:28</span><RouterLink to="#大火炎放射">大火炎放射</RouterLink></li>
+    <li><span>----</span><RouterLink to="#ナイサイ受け渡し-3回目">ナイサイ受け渡し(3回目)</RouterLink></li>
+    <li><span>1:40</span><RouterLink to="#竜巻">竜巻</RouterLink></li>
+    <li><span>1:49</span><RouterLink to="#水・雷圧縮爆発-3回目">水・雷圧縮爆発(3回目)</RouterLink></li>
+    <li><span>----</span><RouterLink to="#ナイサイ受け渡し-4回目">ナイサイ受け渡し(4回目)</RouterLink></li>
+    <li><span>2:07</span><RouterLink to="#プロペラウィンド">プロペラウィンド</RouterLink></li>
+    <li><span>2:09</span><RouterLink to="#最後の審判-結審">最後の審判:結審</RouterLink></li>
+    <li><span>2:20</span><RouterLink to="#フォトン(タンク)">フォトン(タンク)</RouterLink></li>
+    <li><span>2:35</span><RouterLink to="#ダブルロケットパンチ">ダブルロケットパンチ</RouterLink></li>
+    <li><span>2:35</span><RouterLink to="#スーパージャンプ">スーパージャンプ</RouterLink></li>
+    <li><span>2:38</span><RouterLink to="#アポカリティクレイ">アポカリティクレイ</RouterLink></li>
+    <li><span>2:48</span><RouterLink to="#竜巻">竜巻</RouterLink></li>
+    <li><span>2:55</span><RouterLink to="#竜巻">竜巻</RouterLink></li>
+    <li><span>3:10</span><RouterLink to="#暗黒の運命-死刑判決">暗黒の運命&死刑判決(時間切れ)</RouterLink></li>
   </template>
 </Timeline>
 

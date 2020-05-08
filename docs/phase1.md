@@ -7,40 +7,40 @@ description: "百事フェーズ"
 
 <Timeline>
   <template v-slot:timeline-content>
-    <li><span>0:10</span><a href="#フルイドスイング">フルイドスイング</a></li>
-    <li><span>0:18</span><a href="#カスケード">カスケード</a></li>
-    <li><span>0:20</span><a href="#リキッドハンド出現">リキッドハンド出現</a></li>
-    <li><span>0:34</span><a href="#ヤークトドール出現">ヤークトドール出現</a></li>
-    <li><span>0:35</span><a href="#プロティアンウェイブ1回目-水柱">プロティアンウェイブ1回目(水柱)</a></li>
-    <li><span>0:35</span><a href="#ハンド・オブ・xxxxx">ハンド・オブ・XXXXX</a></li>
-    <li><span>0:37</span><a href="#フルイドスイング">フルイドスイング</a></li>
-    <li><span>0:38</span><a href="#プロティアンウェイブ2回目-水柱">プロティアンウェイブ2回目(水柱)</a></li>
-    <li><span>0:39</span><a href="#汚染蒸気">汚染蒸気</a></li>
-    <li><span>0:41</span><a href="#エンボラス出現">エンボラス出現</a></li>
-    <li><span>0:42</span><a href="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</a></li>
-    <li><span>0:49</span><a href="#汚染蒸気">汚染蒸気</a></li>
-    <li><span>0:56</span><a href="#フルイドスイング">フルイドスイング</a></li>
-    <li><span>1:09</span><a href="#プロティアンウェイブ1回目">プロティアンウェイブ1回目</a></li>
-    <li><span>1:09</span><a href="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</a></li>
-    <li><span>1:10</span><a href="#スルース">スルース</a></li>
-    <li><span>1:11</span><a href="#プロティアンウェイブ2回目">プロティアンウェイブ2回目</a></li>
-    <li><span>1:14</span><a href="#プロティアンウェイブ3回目">プロティアンウェイブ3回目</a></li>
-    <li><span>1:20</span><a href="#スプラッシュ">スプラッシュ</a></li>
-    <li><span>1:25</span><a href="#ドレナージ">ドレナージ</a></li>
-    <li><span>1:30</span><a href="#カスケード">カスケード</a></li>
-    <li><span>1:35</span><a href="#窒息付与">窒息付与</a></li>
-    <li><span>1:45</span><a href="#プロティアンウェイブ1回目">プロティアンウェイブ1回目</a></li>
-    <li><span>1:47</span><a href="#スルース">スルース</a></li>
-    <li><span>1:48</span><a href="#プロティアンウェイブ2回目">プロティアンウェイブ2回目</a></li>
-    <li><span>1:48</span><a href="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</a></li>
-    <li><span>1:51</span><a href="#プロティアンウェイブ3回目">プロティアンウェイブ3回目</a></li>
-    <li><span>1:51</span><a href="#プロティアンウェイブ1回目-後半水柱">プロティアンウェイブ1回目(後半水柱)</a></li>
-    <li><span>1:54</span><a href="#プロティアンウェイブ2回目-後半水柱">プロティアンウェイブ2回目(後半水柱)</a></li>
-    <li><span>2:01</span><a href="#エンボラス出現">エンボラス出現</a></li>
-    <li><span>2:04</span><a href="#ハンド・オブ・xxxxx">ハンド・オブ・XXXXX</a></li>
-    <li><span>2:07</span><a href="#スプラッシュ">スプラッシュ</a></li>
-    <li><span>2:08</span><a href="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</a></li>
-    <li><span>2:20</span><a href="#カスケード">カスケード(時間切れ)</a></li>
+    <li><span>0:10</span><RouterLink to="#フルイドスイング">フルイドスイング</RouterLink></li>
+    <li><span>0:18</span><RouterLink to="#カスケード">カスケード</RouterLink></li>
+    <li><span>0:20</span><RouterLink to="#リキッドハンド出現">リキッドハンド出現</RouterLink></li>
+    <li><span>0:34</span><RouterLink to="#ヤークトドール出現">ヤークトドール出現</RouterLink></li>
+    <li><span>0:35</span><RouterLink to="#プロティアンウェイブ1回目-水柱">プロティアンウェイブ1回目(水柱)</RouterLink></li>
+    <li><span>0:35</span><RouterLink to="#ハンド・オブ・xxxxx">ハンド・オブ・XXXXX</RouterLink></li>
+    <li><span>0:37</span><RouterLink to="#フルイドスイング">フルイドスイング</RouterLink></li>
+    <li><span>0:38</span><RouterLink to="#プロティアンウェイブ2回目-水柱">プロティアンウェイブ2回目(水柱)</RouterLink></li>
+    <li><span>0:39</span><RouterLink to="#汚染蒸気">汚染蒸気</RouterLink></li>
+    <li><span>0:41</span><RouterLink to="#エンボラス出現">エンボラス出現</RouterLink></li>
+    <li><span>0:42</span><RouterLink to="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</RouterLink></li>
+    <li><span>0:49</span><RouterLink to="#汚染蒸気">汚染蒸気</RouterLink></li>
+    <li><span>0:56</span><RouterLink to="#フルイドスイング">フルイドスイング</RouterLink></li>
+    <li><span>1:09</span><RouterLink to="#プロティアンウェイブ1回目">プロティアンウェイブ1回目</RouterLink></li>
+    <li><span>1:09</span><RouterLink to="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</RouterLink></li>
+    <li><span>1:10</span><RouterLink to="#スルース">スルース</RouterLink></li>
+    <li><span>1:11</span><RouterLink to="#プロティアンウェイブ2回目">プロティアンウェイブ2回目</RouterLink></li>
+    <li><span>1:14</span><RouterLink to="#プロティアンウェイブ3回目">プロティアンウェイブ3回目</RouterLink></li>
+    <li><span>1:20</span><RouterLink to="#スプラッシュ">スプラッシュ</RouterLink></li>
+    <li><span>1:25</span><RouterLink to="#ドレナージ">ドレナージ</RouterLink></li>
+    <li><span>1:30</span><RouterLink to="#カスケード">カスケード</RouterLink></li>
+    <li><span>1:35</span><RouterLink to="#窒息付与">窒息付与</RouterLink></li>
+    <li><span>1:45</span><RouterLink to="#プロティアンウェイブ1回目">プロティアンウェイブ1回目</RouterLink></li>
+    <li><span>1:47</span><RouterLink to="#スルース">スルース</RouterLink></li>
+    <li><span>1:48</span><RouterLink to="#プロティアンウェイブ2回目">プロティアンウェイブ2回目</RouterLink></li>
+    <li><span>1:48</span><RouterLink to="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</RouterLink></li>
+    <li><span>1:51</span><RouterLink to="#プロティアンウェイブ3回目">プロティアンウェイブ3回目</RouterLink></li>
+    <li><span>1:51</span><RouterLink to="#プロティアンウェイブ1回目-後半水柱">プロティアンウェイブ1回目(後半水柱)</RouterLink></li>
+    <li><span>1:54</span><RouterLink to="#プロティアンウェイブ2回目-後半水柱">プロティアンウェイブ2回目(後半水柱)</RouterLink></li>
+    <li><span>2:01</span><RouterLink to="#エンボラス出現">エンボラス出現</RouterLink></li>
+    <li><span>2:04</span><RouterLink to="#ハンド・オブ・xxxxx">ハンド・オブ・XXXXX</RouterLink></li>
+    <li><span>2:07</span><RouterLink to="#スプラッシュ">スプラッシュ</RouterLink></li>
+    <li><span>2:08</span><RouterLink to="#ハンド・オブ・ペイン">ハンド・オブ・ペイン</RouterLink></li>
+    <li><span>2:20</span><RouterLink to="#カスケード">カスケード(時間切れ)</RouterLink></li>
   </template>
 </Timeline>
 
