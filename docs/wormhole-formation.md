@@ -27,8 +27,10 @@ description: ""
   </template>
 </Timeline>
 
+::: warning 解說注意事項
 - [參考影片](https://www.youtube.com/watch?v=utfUGDM1Y9w)
 - 以下解說是根據參考影片寫的，實際解法可討論調整
+:::
 
 ## アレキターゲット不可
 - 次元断絶のマーチ詠唱結束後，Alex 會出現在南方，飛機 & 胖子會出現在北西/北東（兩者位置隨機）
