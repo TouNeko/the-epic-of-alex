@@ -11,6 +11,12 @@ pageClass: index
   </div>
 </div>
 
+<style>
+  .page-header.phaselc {
+    background-image: url('/coverlc.jpg');
+  }
+</style>
+
 ## 解說
 - 照準全部 10 炸，兩人一組處理骰子的飛機攻擊位置在第 3、4、7、9 炸，建議可以默數炸的次數
 - 照準起始第一炸的位置為隨機，第一炸會決定分組的南北方向

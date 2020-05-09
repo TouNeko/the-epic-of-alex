@@ -10,6 +10,12 @@ description: ""
   </div>
 </div>
 
+<style>
+  .page-header.phase4 {
+    background-image: url('/cover4.jpg');
+  }
+</style>
+
 <Timeline>
   <template v-slot:timeline-content>
     <li><span>0:00</span><RouterLink to="#アレキサンダーターゲット可">アレキサンダーターゲット可</RouterLink></li>

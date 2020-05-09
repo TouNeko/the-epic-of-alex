@@ -10,6 +10,12 @@ description: "3体フェーズ"
   </div>
 </div>
 
+<style>
+  .page-header.phase3 {
+    background-image: url('/cover3.jpg');
+  }
+</style>
+
 <Timeline>
   <template v-slot:timeline-content>
     <li><span>0:00</span><RouterLink to="#デバフ付与">デバフ付与</RouterLink></li>

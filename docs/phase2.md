@@ -10,6 +10,12 @@ description: "2体フェーズ"
   </div>
 </div>
 
+<style>
+  .page-header.phase2 {
+    background-image: url('/cover2.jpg');
+  }
+</style>
+
 <Timeline>
   <template v-slot:timeline-content>
     <li><span>0:00</span><RouterLink to="#ジャスティスキック">ジャスティスキック</RouterLink></li>

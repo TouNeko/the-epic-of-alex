@@ -10,6 +10,12 @@ pageClass: index
   </div>
 </div>
 
+<style>
+  .page-header.index {
+    background-image: url('/coverindex.jpg');
+  }
+</style>
+
 ## 參考資料
 - [早腸影片](https://www.twitch.tv/videos/522822933)
 - [イディルシャイア居住区](http://kanatan.info/archives/380650.html)
