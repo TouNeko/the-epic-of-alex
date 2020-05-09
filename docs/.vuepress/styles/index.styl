@@ -17,3 +17,58 @@ h1
 
 h2
   font-size 1.5rem
+
+.index {$contentClass}
+  max-width calc(100vw - 20rem - 80px)
+
+.page-header
+  position relative
+  margin-top 24px
+  margin-left -40px
+  margin-right -40px
+  padding 40px
+  color white
+  background-color black
+  background-size cover
+  background-repeat no-repeat
+  background-position center
+
+  &:before
+    content ''
+    position absolute
+    top 0
+    left 0
+    right 0
+    bottom 0
+    background rgba(0, 0, 0, .5)
+
+  &.index
+    background-image url('/coverindex.jpg')
+
+  &.phase1
+    background-image url('/cover1.jpg')
+
+  &.phase2
+    background-image url('/cover2.jpg')
+
+  &.phase3
+    background-image url('/cover3.jpg')
+
+  &.phase35
+    background-image url('/cover35.jpg')
+
+  &.phase4
+    background-image url('/cover4.jpg')
+
+  &.phaselc
+    background-image url('/coverlc.jpg')
+
+
+  &-content
+    position relative
+
+  h1, p
+    margin-top 0.25em
+    margin-bottom 0.25em
+  p
+    font-weight bold

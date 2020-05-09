@@ -3,7 +3,12 @@ title: "Phase 4"
 description: ""
 ---
 
-# Final Phase - パーフェクト・アレキサンダー
+<div class="page-header phase4">
+  <div class="page-header-content">
+    <p>Final Phase</p>
+    <h1>パーフェクト・アレキサンダー</h1>
+  </div>
+</div>
 
 <Timeline>
   <template v-slot:timeline-content>

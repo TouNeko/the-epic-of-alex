@@ -11,7 +11,7 @@
 .timeline
   overflow-y auto
   position fixed
-  max-width 280px
+  width 280px
   top 58px
   right 0
   bottom 0

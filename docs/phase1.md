@@ -2,8 +2,12 @@
 title: "Phase 1"
 description: "百事フェーズ"
 ---
-
-# Phase 1 - 百事フェーズ
+<div class="page-header phase1">
+  <div class="page-header-content">
+    <p>Phase 1</p>
+    <h1>百事フェーズ</h1>
+  </div>
+</div>
 
 <Timeline>
   <template v-slot:timeline-content>

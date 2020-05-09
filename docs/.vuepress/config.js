@@ -2,12 +2,12 @@ module.exports = {
   title: 'The Epic of Alexander Memo',
   description: '',
   base: '/the-epic-of-alex/',
-  plugins: ['vuepress-plugin-smooth-scroll'],
   head: [
     ['meta', {'http-equiv': 'X-UA-Compatible', content: 'IE=edge'}],
   ],
   themeConfig:{
     search: false,
+    smoothScroll: true,
     sidebar: {
       '/': getSidebar()
     }

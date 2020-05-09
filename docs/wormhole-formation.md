@@ -3,7 +3,12 @@ title: "次元断絶のマーチ"
 description: ""
 ---
 
-# 次元断絶のマーチ
+<div class="page-header phase35">
+  <div class="page-header-content">
+    <p>Phase 3</p>
+    <h1>次元断絶のマーチ</h1>
+  </div>
+</div>
 
 <Timeline>
   <template v-slot:timeline-content>
@@ -27,7 +32,9 @@ description: ""
   </template>
 </Timeline>
 
-::: warning 解說注意事項
+## 解說
+
+::: warning 注意事項
 - [參考影片](https://www.youtube.com/watch?v=utfUGDM1Y9w)
 - 以下解說是根據參考影片寫的，實際解法可討論調整
 :::

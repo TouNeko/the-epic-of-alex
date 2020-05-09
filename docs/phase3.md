@@ -3,7 +3,12 @@ title: "Phase 3"
 description: "3体フェーズ"
 ---
 
-# Phase 3 - 3体フェーズ
+<div class="page-header phase3">
+  <div class="page-header-content">
+    <p>Phase 3</p>
+    <h1>3 体フェーズ</h1>
+  </div>
+</div>
 
 <Timeline>
   <template v-slot:timeline-content>
