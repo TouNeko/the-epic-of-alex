@@ -77,8 +77,7 @@ description: "3体フェーズ"
 - 其他人躲在 アルファソード 沒有砍的那個方向，不要離飛機太近，也不要離誘導胖子的坦太近
 
 ## 次元断絶のマーチ
-- <RouterLink to="wormhole-formation.html">請移駕（未完成）</RouterLink>
-- [參考影片 08:22](https://www.twitch.tv/videos/522822933?t=00h08m22s)
+- <RouterLink to="wormhole-formation.html">獨立解說頁面</RouterLink>
 
 ## メガホーリー
 - 範圍大傷害，無減傷/護盾的話大約是 11～12 萬的傷害，減傷/護盾必要。
