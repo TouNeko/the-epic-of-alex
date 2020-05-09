@@ -8,6 +8,9 @@ description: "私用 The Epic of Alexander 攻略記事"
 私用 The Epic of Alexander 攻略記事，持續更新
 
 ## 更新紀錄
+- 2020/05/10
+  - 修正部分用詞 & 加重罰的解說
+  - 增加部分機制解說細節
 - 2020/05/09
   - 更新次元断絶のマーチ的 Timeline & 機制解說
   - 更新 P4 的 Timeline & 機制解說
