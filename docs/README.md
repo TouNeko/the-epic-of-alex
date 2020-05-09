@@ -10,7 +10,7 @@ description: "私用 The Epic of Alexander 攻略記事"
 ## 更新紀錄
 - 2020/05/09
   - 更新次元断絶のマーチ的 Timeline & 機制解說
-  - 更新 P4 的 Timeline
+  - 更新 P4 的 Timeline & 機制解說
 - 2020/05/08
   - 新增部分機制的參考影片連結，影片來源為早腸的通關影片
   - Timeline 增加跟隨當前機制解說的 highlight 標示
