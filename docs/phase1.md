@@ -9,12 +9,6 @@ description: "百事フェーズ"
   </div>
 </div>
 
-<style>
-  .page-header.phase1 {
-    background-image: url('/cover1.jpg');
-  }
-</style>
-
 <Timeline>
   <template v-slot:timeline-content>
     <li><span>0:10</span><RouterLink to="#フルイドスイング">フルイドスイング</RouterLink></li>

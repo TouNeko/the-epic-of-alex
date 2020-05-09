@@ -10,12 +10,6 @@ description: ""
   </div>
 </div>
 
-<style>
-  .page-header.phase35 {
-    background-image: url('/cover35.jpg');
-  }
-</style>
-
 <Timeline>
   <template v-slot:timeline-content>
     <li><span>0:00</span><RouterLink to="#アレキターゲット不可">アレキターゲット不可</RouterLink></li>
