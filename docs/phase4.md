@@ -9,9 +9,9 @@ description: ""
   <template v-slot:timeline-content>
     <li><span>0:00</span><RouterLink to="#アレキサンダーターゲット可">アレキサンダーターゲット可</RouterLink></li>
     <li><span>0:15</span><RouterLink to="#確定判決">確定判決</RouterLink></li>
-    <li><span>0:22</span><RouterLink to="#行動命令/静止命令1">行動命令/静止命令1</RouterLink></li>
+    <li><span>0:22</span><RouterLink to="#行動命令-静止命令1">行動命令/静止命令1</RouterLink></li>
     <li><span>0:25</span><RouterLink to="#確定判決発動">確定判決発動</RouterLink></li>
-    <li><span>0:32</span><RouterLink to="#行動命令/静止命令2">行動命令/静止命令2</RouterLink></li>
+    <li><span>0:32</span><RouterLink to="#行動命令-静止命令2">行動命令/静止命令2</RouterLink></li>
     <li><span>0:42</span><RouterLink to="#照準1">照準1</RouterLink></li>
     <li><span>0:48</span><RouterLink to="#照準2">照準2</RouterLink></li>
     <li><span>1:03</span><RouterLink to="#未来観測α">未来観測α</RouterLink></li>
