@@ -16,6 +16,7 @@
   right 0
   bottom 0
   font-size 12px
+  background white
   border-left 1px solid $borderColor
 
   .title
