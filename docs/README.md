@@ -10,14 +10,18 @@ pageClass: index
   </div>
 </div>
 
-## 參考資料
+## 參考資料 & 相關連結
 - [早腸影片](https://www.twitch.tv/videos/522822933)
+- [Sonia 畫的圖](https://docs.google.com/document/d/1ZpUf6wreOzaN-WcraTUT0XQkJCLSSlJEaZnMOuy3gbM/)
+- [樂哥祖傳殘體攻略](http://ngabbs.com/read.php?tid=19394167&rand=857)
 - [イディルシャイア居住区](http://kanatan.info/archives/380650.html)
 - [まじ卍 (セパレ式)](http://lenafily0402.livedoor.blog/archives/cat_378358.html)
-- [樂哥祖傳殘體攻略](http://ngabbs.com/read.php?tid=19394167&rand=857)
+- [絶アレキサンダーと主なアクション使用箇所](https://docs.google.com/spreadsheets/d/1C_tt_eP7CYz2A_EpDqLo1X-BCkHTUdnsvL1SIln7ixI/)
 - [文字を読みたくない人のための次元断絶のマーチ](https://www.youtube.com/watch?v=utfUGDM1Y9w)
 
 ## 更新紀錄
+- 2020/05/11
+  - 增加相關連結
 - 2020/05/10
   - 加了 Cover
   - 修正部分用詞 & 加重罰的解說
@@ -36,5 +40,5 @@ pageClass: index
   - 更新 P1～P2 的 Timeline & 機制解說
 
 <div class="footer">
-  <div class="credit">Written by Neko Tou for personal use.</div>
+  <div class="credit">Written by Neko Tou (Felis Noz) for personal use.</div>
 </div>
