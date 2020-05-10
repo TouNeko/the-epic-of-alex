@@ -34,3 +34,7 @@ pageClass: index
   - 改進手機 Size 排版
 - 2020/05/06
   - 更新 P1～P2 的 Timeline & 機制解說
+
+<div class="footer">
+  <div class="credit">Written by Neko Tou for personal use.</div>
+</div>
