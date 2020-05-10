@@ -40,5 +40,5 @@ pageClass: index
   - 更新 P1～P2 的 Timeline & 機制解說
 
 <div class="footer">
-  <div class="credit">Written by Neko Tou (Felis Noz) for personal use.</div>
+  <div class="credit">Written by Felis Noz for personal use.</div>
 </div>
