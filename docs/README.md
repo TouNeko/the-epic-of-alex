@@ -6,7 +6,7 @@ pageClass: index
 <div class="page-header index">
   <div class="page-header-content">
     <h1>The Epic of Alexander Memo</h1>
-    <p>私用 The Epic of Alexander 攻略記事，持續更新</p>
+    <p>私用攻略記事，持續更新</p>
   </div>
 </div>
 
@@ -40,5 +40,5 @@ pageClass: index
   - 更新 P1～P2 的 Timeline & 機制解說
 
 <div class="footer">
-  <div class="credit">Written by Felis Noz for personal use.</div>
+  <div class="credit">Written by Noz for personal use.</div>
 </div>
